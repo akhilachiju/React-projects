@@ -1,0 +1,4 @@
+npm init for json file(package)
+npm install express body-parser mysql nodemon(dependencies)
+create index.jsx file
+...............................................................
